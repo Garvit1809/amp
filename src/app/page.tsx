@@ -381,6 +381,7 @@ export default function Home() {
                     >
                       <option value="">Select an option</option>
                       <option>Academic Mentorship</option>
+                      <option>Thesis Consultation</option>
                       <option>Proposal Review</option>
                       <option>Research Advisory</option>
                       <option>Publication Assistance</option>
